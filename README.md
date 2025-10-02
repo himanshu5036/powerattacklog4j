@@ -121,9 +121,9 @@ docker run -it --rm -v $PWD:/data log4j-scan -l /data/urls.txt
 
 # About 
 
-powerattack is the next-generation attack surface management platform. powerattack enables companies to discover all of their attack surfaces, monitor them for exposure, and continuously scan them for the latest security vulnerabilities. All, in a single platform, and more.
+powerattacklog4j is the next-generation attack surface management platform. powerattacklog4j enables companies to discover all of their attack surfaces, monitor them for exposure, and continuously scan them for the latest security vulnerabilities. All, in a single platform, and more.
 
-powerattack provides an enterprise platform for organizations. The powerattack Enterprise Platform provides extended scanning and capabilities for customers. FullHunt Enterprise platform allows organizations to closely monitor their external attack surface, and get detailed alerts about every single change that happens. Organizations around the world use the FullHunt Enterprise Platform to solve their continuous security and external attack surface security challenges.
+powerattacklog4j provides an enterprise platform for organizations. The powerattacklog4j Enterprise Platform provides extended scanning and capabilities for customers. powerattacklog4j Enterprise platform allows organizations to closely monitor their external attack surface, and get detailed alerts about every single change that happens. Organizations around the world use the FullHunt Enterprise Platform to solve their continuous security and external attack surface security challenges.
 
 # Legal Disclaimer
 
